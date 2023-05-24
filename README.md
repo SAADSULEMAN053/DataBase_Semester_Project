@@ -64,17 +64,12 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#diagrams">Diagrams</a></li>
+    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#projects">More Projects</a></li>
   </ol>
 </details>
 
@@ -141,8 +136,8 @@ For Usage refer to [Usage full documentation](https://example.com)
 
 
 
-<!-- ROADMAP -->
-## System Diagrams
+<!-- SYSTEM DIAGRAMS -->
+## Diagrams
 
 - [x] Context Diagram
 - [x] DFD
@@ -182,10 +177,8 @@ Project Link: [Dental Vision](https://github.com/SAADSULEMAN053/Database-Semeste
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->
-## More Projects
+## Projects
 
 Here are some other amazing projects created by the same contributors:
 
