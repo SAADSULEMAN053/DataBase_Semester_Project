@@ -61,7 +61,7 @@ template link: https://github.com/othneildrew/Best-README-Template/pull/73
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#diagrams">Diagrams</a></li>
-    <li><a href="#collaborators">Contributors</a></li>
+    <li><a href="#members">Contributors</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#projects">More Projects</a></li>
   </ol>
@@ -139,7 +139,7 @@ For Usage refer to [Usage full documentation](https://example.com)
 
 
 <!-- Collaborators -->
-## Collaborators
+## Members
 
 This project is collaboratively developed by :
 
