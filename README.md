@@ -19,7 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-![GitHub forks](https://img.shields.io/github/forks/SAADSULEMAN053/DataBase_Semester_Project?color=%23006600&style=social)
+[![GitHub forks][Forks-shield]][Forks-url]
 [![Watchers][Watchers-shield]][Watchers-url]
 [![Issues][issues-shield]][issues-url]
 
@@ -212,8 +212,8 @@ Here are some other amazing projects created by the same contributors:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/badge/Contributors-2-40AEF0?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/SAADSULEMAN053/Database-Semester-Project.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[Forks-shield]: https://img.shields.io/github/forks/SAADSULEMAN053/DataBase_Semester_Project?color=%23000000&style=for-the-badge
+[Forks-url]: https://github.com/SAADSULEMAN053/DataBase_Semester_Project/network/members
 [Watchers-shield]: https://img.shields.io/badge/Watchers-1-40AEF0?style=for-the-badge
 [Watchers-url]: https://github.com/SAADSULEMAN053/Database-Semester-Project/watchers
 [issues-shield]: https://img.shields.io/badge/Issues-0-006600?style=for-the-badge
