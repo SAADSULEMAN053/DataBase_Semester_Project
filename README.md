@@ -137,7 +137,7 @@ This Dental Clinic Management System alias Dental Vision is built using the foll
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-For Usage refer to [Usage](https://example.com)
+For Usage refer to [Usage full documentation](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
