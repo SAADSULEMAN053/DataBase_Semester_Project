@@ -61,7 +61,7 @@ template link: https://github.com/othneildrew/Best-README-Template/pull/73
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#diagrams">Diagrams</a></li>
-    <li><a href="#contributors">Contributors</a></li>
+    <li><a href="#collaborators">Contributors</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#projects">More Projects</a></li>
   </ol>
@@ -138,8 +138,8 @@ For Usage refer to [Usage full documentation](https://example.com)
 - [ ] ERD
 
 
-<!-- CONTRIBUTING -->
-## Contributors 
+<!-- Collaborators -->
+## Collaborators
 
 This project is collaboratively developed by :
 
@@ -174,7 +174,7 @@ Project Link: [Dental Vision](https://github.com/SAADSULEMAN053/Database-Semeste
 <!-- ACKNOWLEDGMENTS -->
 ## Projects
 
-Here are some other amazing projects created by the same contributors:
+Here are some other amazing projects created by the same members:
 
 * [HitFit](https://github.com/MuhammedZohaib/Semester-Project-2022)
 * [Opay](https://github.com/MuhammedZohaib/opay)
