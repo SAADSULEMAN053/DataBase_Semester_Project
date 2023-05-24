@@ -134,7 +134,9 @@ For Usage refer to [Usage full documentation](https://example.com)
 ## Diagrams
 
 - [x] Context Diagram
+![ContextDiagram]()
 - [x] ERD
+![ERD]()
 - [ ] DFD
 
 
