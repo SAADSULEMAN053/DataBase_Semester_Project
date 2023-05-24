@@ -25,6 +25,7 @@
 [![GitHub forks][Forks-shield]][Forks-url]
 [![Watchers][Watchers-shield]][Watchers-url]
 [![Issues][issues-shield]][issues-url]
+![Languages][Languages-shield]
 
 
 
@@ -240,5 +241,5 @@ Here are some other amazing projects created by the same contributors:
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[Languages-shield]: https://img.shields.io/github/languages/count/SAADSULEMAN053/DataBase_Semester_Project?style=for-the-badge
 [JQuery-url]: https://jquery.com 
