@@ -98,14 +98,8 @@ Features:
 
 This Dental Clinic Management System alias Dental Vision is built using the following technologies:
 
-* [![Java][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![SQL][ms-sql-server]][ms-sql-server-url]
+* [![GITHUB][GITHUB]][GITHUB-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,10 +221,10 @@ Here are some other amazing projects created by the same contributors:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+[ms-sql-server]: https://img.shields.io/badge/microsoft_sql_server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
+[ms-sql-server-url]: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+[GITHUB]: https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB
+[GITHUB-url]: https://github.com/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
