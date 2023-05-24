@@ -152,7 +152,7 @@ For Usage refer to [Usage full documentation](https://example.com)
 
 
 <!-- CONTRIBUTING -->
-## Contributors ✨
+## Contributors 
 
 This project is collaboratively developed by :
 
