@@ -80,9 +80,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<a href="https://github.com/SAADSULEMAN053/Database-Semester-Project">
-    <img src="2009.jpg" alt="Logo" width="1500" height="500">
-  </a>
 
 The Dental Management System is designed to manage all aspects of dental practices, including patient management, appointment scheduling, treatment recording, billing, and insurance tracking. The system is designed to provide efficient workflow and simplified data flow across the dental office.
 
