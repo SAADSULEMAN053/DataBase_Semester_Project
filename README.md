@@ -19,7 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+![GitHub forks](https://img.shields.io/github/forks/SAADSULEMAN053/DataBase_Semester_Project?color=%23006600&style=social)
 [![Watchers][Watchers-shield]][Watchers-url]
 [![Issues][issues-shield]][issues-url]
 
