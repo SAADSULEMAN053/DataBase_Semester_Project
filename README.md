@@ -214,7 +214,7 @@ Here are some other amazing projects created by the same contributors:
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [Forks-shield]: https://img.shields.io/github/forks/SAADSULEMAN053/DataBase_Semester_Project?color=%23000000&style=for-the-badge
 [Forks-url]: https://github.com/SAADSULEMAN053/DataBase_Semester_Project/network/members
-[Watchers-shield]: https://img.shields.io/badge/Watchers-1-40AEF0?style=for-the-badge
+[Watchers-shield]: https://img.shields.io/github/watchers/SAADSULEMAN053/DataBase_Semester_Project?color=Green&style=for-the-badge
 [Watchers-url]: https://github.com/SAADSULEMAN053/Database-Semester-Project/watchers
 [issues-shield]: https://img.shields.io/badge/Issues-0-006600?style=for-the-badge
 [issues-url]: https://github.com/SAADSULEMAN053/Database-Semester-Project/issues
