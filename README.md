@@ -134,8 +134,8 @@ For Usage refer to [Usage full documentation](https://example.com)
 ## Diagrams
 
 - [x] Context Diagram
-- [x] DFD
-- [ ] ERD
+- [x] ERD
+- [ ] DFD
 
 
 <!-- Collaborators -->
