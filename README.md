@@ -216,7 +216,7 @@ Here are some other amazing projects created by the same contributors:
 [Forks-url]: https://github.com/SAADSULEMAN053/DataBase_Semester_Project/network/members
 [Watchers-shield]: https://img.shields.io/github/watchers/SAADSULEMAN053/DataBase_Semester_Project?color=Green&style=for-the-badge
 [Watchers-url]: https://github.com/SAADSULEMAN053/Database-Semester-Project/watchers
-[issues-shield]: https://img.shields.io/badge/Issues-0-006600?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/SAADSULEMAN053/DataBase_Semester_Project?style=for-the-badge
 [issues-url]: https://github.com/SAADSULEMAN053/Database-Semester-Project/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
