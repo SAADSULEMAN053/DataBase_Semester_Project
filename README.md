@@ -33,7 +33,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SAADSULEMAN053/Database-Semester-Project">
-    <img src="ToothLogo.png" alt="Logo" width="240" height="140">
+    <img src="images\ToothLogo.png" alt="Logo" width="240" height="140">
   </a>
 
   <h3 align="center">Dental Vision</h3>
