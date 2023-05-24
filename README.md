@@ -137,9 +137,7 @@ This Dental Clinic Management System alias Dental Vision is built using the foll
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+For Usage refer to [Usage](https://example.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,24 +214,9 @@ Here are some other amazing projects created by the same contributors:
 [Watchers-url]: https://github.com/SAADSULEMAN053/Database-Semester-Project/watchers
 [issues-shield]: https://img.shields.io/github/issues/SAADSULEMAN053/DataBase_Semester_Project?style=for-the-badge
 [issues-url]: https://github.com/SAADSULEMAN053/Database-Semester-Project/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
 [ms-sql-server]: https://img.shields.io/badge/microsoft_sql_server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
 [ms-sql-server-url]: https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
 [GITHUB]: https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB
 [GITHUB-url]: https://github.com/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
 [Languages-shield]: https://img.shields.io/github/languages/count/SAADSULEMAN053/DataBase_Semester_Project?style=for-the-badge
-[JQuery-url]: https://jquery.com 
+
